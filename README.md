@@ -4,4 +4,4 @@ A simple map showing the 100m no smoking areas around schools, pre schools, kind
 
 This is just a proof of concept. Hacked together without previous knowledge of Leaflet in just a few hours.
 
-![Screenshot](https://github.com/haemka/CanG/blob/main/screenshot.png?raw=true)
+![Screenshot](https://raw.githubusercontent.com/haemka/CanGMap/main/screenshot.png?raw=true)
